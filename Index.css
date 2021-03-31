@@ -1,0 +1,53 @@
+body{
+    background-attachment: fixed;
+    background-position:cover ;
+    background-repeat: no-repeat;
+    background-image: url('https://wallpapercave.com/wp/Cg01xXX.jpg');
+    
+}
+nav{
+    text-decoration: none;
+    display: flex;
+    justify-content: flex-end;
+}
+nav>a{
+    color: white;
+    margin-right: 3%;
+    margin-top: 1%;
+    text-decoration: none ;
+    font-size: 35px;
+} 
+ /* visited link */
+ a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: aqua;
+  }
+  /* unvisited link */
+  
+  .social{
+    display: flex;
+    justify-content: space-evenly;
+    font-style: italic;
+    color: cornsilk;
+    font-size: 35px;
+    text-align: ;
+    
+  }
+  .introduction{
+    text-align: center;
+    color: white;
+    font-size: 120px;
+  }
+  }  
+  p>a{
+    text-decoration: none;
+    font-style: italic;
+  }
+  .footer>p{
+    color: white;
+    font-size: 35px
+  }
